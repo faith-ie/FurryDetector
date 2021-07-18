@@ -12,5 +12,5 @@ namespace PackageExample
     {
         static void Main() => Console.WriteLine(Detect.IsAFurry(Console.ReadLine()));  // Returns "True" if the input contains owo or uwu, and "False" if it doesn't. 
     }
-}```
-
+}
+```
